@@ -1,4 +1,4 @@
-<p align="center"><img src="./public/logo_palpitebox2.png" ></img></p>
+<p align="center"><img src="./public/logo_palpitebox2.png" ></img>
 <h1 align="center">Semana Fullstack Master </h1>
 <p align="center">Projeto <strong>PalpiteBox</strong> desenvolvido durante a Semana Fullstack Master</p>
 <p align="center">O projeto que desenvolveremos durante o evento foi
@@ -46,7 +46,8 @@ rapidly building custom designs.
 * [Google Sheets](https://drive.google.com) - Planilhas online do Google
 
 ## Autor
-**Djayson Rodrigues** - [LinkedIn](https://linkedin.com/in/djaysonrodrigues)
+**Djayson Rodrigues** - [LinkedIn](https://br.linkedin.com/in/djaysonrodrigues)
+
 
 ## Frontend
 
