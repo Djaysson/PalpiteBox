@@ -54,4 +54,4 @@ rapidly building custom designs.
 <img align="center" src="./public/app.png"></img>
 ## Licença
 
-[MIT](./LICENSE) &copy; [DevPleno](https://devpleno.com/)
+[MIT](./LICENSE) 
